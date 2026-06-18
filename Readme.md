@@ -31,11 +31,12 @@ Proje Dockerize edildiği için bilgisayarınızda Node.js veya herhangi bir kü
 ```bash
 git clone https://github.com/capanoglu-hus/Vinu-usdt-event
 ```
-
+### 2. Önemli Bilgileri Doldurun
 ```
 Firebase/RPC anahtarlarınızı doldurun.
+FireBase Config api key ,İnfura api key , firebase private Key
 ```
-
+### 3. Docker ile projeyi çalıştırın
 ```
 docker compose up --build
 ```
