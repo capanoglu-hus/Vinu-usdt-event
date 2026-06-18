@@ -28,3 +28,14 @@ Tüm mimari **Docker** konteynerleri üzerinde izole ve taşınabilir şekilde �
 Proje Dockerize edildiği için bilgisayarınızda Node.js veya herhangi bir kütüphane kurulu olmasına gerek yoktur. Sadece Docker ve Docker Desktop'ın kurulu olması yeterlidir.
 
 ### 1. Depoyu Klonlayın
+```bash
+git clone https://github.com/capanoglu-hus/Vinu-usdt-event
+```
+
+```
+Firebase/RPC anahtarlarınızı doldurun.
+```
+
+```
+docker compose up --build
+```
