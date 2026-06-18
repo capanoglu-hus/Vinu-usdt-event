@@ -40,3 +40,4 @@ FireBase Config api key ,İnfura api key , firebase private Key
 ```
 docker compose up --build
 ```
+<img width="1477" height="862" alt="TAKİP" src="https://github.com/user-attachments/assets/be740495-d0cb-464b-8f21-691a7ab5f2e5" />
